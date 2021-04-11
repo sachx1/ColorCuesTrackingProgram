@@ -1,0 +1,4 @@
+#Sat Apr 10 22:38:05 EDT 2021
+base.0=C\:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

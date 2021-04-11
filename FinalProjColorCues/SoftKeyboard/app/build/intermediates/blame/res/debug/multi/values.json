@@ -1,0 +1,2414 @@
+[
+    {
+        "outputFile": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\alphabet.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\fitaly.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\lewis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 3483
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\metropolis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3488,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\opti.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\opti2.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endLine": 273,
+                    "endColumn": 9,
+                    "endOffset": 10310
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases100.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 103,
+                        "endColumn": 9,
+                        "endOffset": 4560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 10315,
+                    "endLine": 775,
+                    "endColumn": 12,
+                    "endOffset": 32658
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases2.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 503,
+                        "endColumn": 12,
+                        "endOffset": 22901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 776,
+                    "startColumn": 4,
+                    "startOffset": 32663,
+                    "endLine": 778,
+                    "endColumn": 9,
+                    "endOffset": 32760
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\quickbrownfox.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 779,
+                    "startColumn": 4,
+                    "startOffset": 32765,
+                    "endLine": 810,
+                    "endColumn": 12,
+                    "endOffset": 33941
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\qwerty.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 811,
+                    "startColumn": 4,
+                    "startOffset": 33946,
+                    "endColumn": 49,
+                    "endOffset": 33991
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 812,
+                    "startColumn": 4,
+                    "startOffset": 33996,
+                    "endColumn": 48,
+                    "endOffset": 34040
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 48,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 813,
+                    "startColumn": 4,
+                    "startOffset": 34045,
+                    "endColumn": 56,
+                    "endOffset": 34097
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 56,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 814,
+                    "startColumn": 4,
+                    "startOffset": 34102,
+                    "endColumn": 37,
+                    "endOffset": 34135
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 37,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 815,
+                    "startColumn": 4,
+                    "startOffset": 34140,
+                    "endColumn": 48,
+                    "endOffset": 34184
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 48,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 816,
+                    "startColumn": 4,
+                    "startOffset": 34189,
+                    "endColumn": 53,
+                    "endOffset": 34238
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 53,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 34243,
+                    "endColumn": 35,
+                    "endOffset": 34274
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 43,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 818,
+                    "startColumn": 4,
+                    "startOffset": 34279,
+                    "endColumn": 37,
+                    "endOffset": 34312
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 45,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 819,
+                    "startColumn": 4,
+                    "startOffset": 34317,
+                    "endColumn": 57,
+                    "endOffset": 34370
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 57,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 820,
+                    "startColumn": 4,
+                    "startOffset": 34375,
+                    "endColumn": 61,
+                    "endOffset": 34432
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 61,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 821,
+                    "startColumn": 4,
+                    "startOffset": 34437,
+                    "endColumn": 33,
+                    "endOffset": 34466
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 33,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 822,
+                    "startColumn": 4,
+                    "startOffset": 34471,
+                    "endColumn": 60,
+                    "endOffset": 34527
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 60,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 823,
+                    "startColumn": 4,
+                    "startOffset": 34532,
+                    "endColumn": 52,
+                    "endOffset": 34580
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 803,
+                        "endColumn": 49,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 824,
+                    "startColumn": 4,
+                    "startOffset": 34585,
+                    "endColumn": 37,
+                    "endOffset": 34618
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 37,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 825,
+                    "startColumn": 4,
+                    "startOffset": 34623,
+                    "endColumn": 52,
+                    "endOffset": 34671
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 52,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 826,
+                    "startColumn": 4,
+                    "startOffset": 34676,
+                    "endColumn": 53,
+                    "endOffset": 34725
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 53,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 34730,
+                    "endColumn": 61,
+                    "endOffset": 34787
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 61,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 34792,
+                    "endColumn": 53,
+                    "endOffset": 34841
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 53,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 829,
+                    "startColumn": 4,
+                    "startOffset": 34846,
+                    "endColumn": 63,
+                    "endOffset": 34905
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 63,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 830,
+                    "startColumn": 4,
+                    "startOffset": 34910,
+                    "endColumn": 61,
+                    "endOffset": 34967
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 61,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 34972,
+                    "endColumn": 61,
+                    "endOffset": 35029
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 61,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 35034,
+                    "endColumn": 66,
+                    "endOffset": 35096
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 66,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 833,
+                    "startColumn": 4,
+                    "startOffset": 35101,
+                    "endColumn": 68,
+                    "endOffset": 35165
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 68,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 834,
+                    "startColumn": 4,
+                    "startOffset": 35170,
+                    "endColumn": 64,
+                    "endOffset": 35230
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 64,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 835,
+                    "startColumn": 4,
+                    "startOffset": 35235,
+                    "endColumn": 57,
+                    "endOffset": 35288
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 57,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 836,
+                    "startColumn": 4,
+                    "startOffset": 35293,
+                    "endColumn": 57,
+                    "endOffset": 35346
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 57,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 837,
+                    "startColumn": 4,
+                    "startOffset": 35351,
+                    "endColumn": 60,
+                    "endOffset": 35407
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 60,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 838,
+                    "startColumn": 4,
+                    "startOffset": 35412,
+                    "endColumn": 94,
+                    "endOffset": 35502
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 94,
+                        "endOffset": 1833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 839,
+                    "startColumn": 4,
+                    "startOffset": 35507,
+                    "endColumn": 68,
+                    "endOffset": 35571
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 68,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 840,
+                    "startColumn": 4,
+                    "startOffset": 35576,
+                    "endColumn": 45,
+                    "endOffset": 35617
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 841,
+                    "startColumn": 4,
+                    "startOffset": 35622,
+                    "endColumn": 91,
+                    "endOffset": 35709
+                },
+                "from": {
+                    "file": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 91,
+                        "endOffset": 1001
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\alphabet.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\fitaly.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\lewis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 3483
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\metropolis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3488,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\opti.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\opti2.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endLine": 273,
+                    "endColumn": 9,
+                    "endOffset": 10310
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases100.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 103,
+                        "endColumn": 9,
+                        "endOffset": 4560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 10315,
+                    "endLine": 775,
+                    "endColumn": 12,
+                    "endOffset": 32658
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases2.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 503,
+                        "endColumn": 12,
+                        "endOffset": 22901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 776,
+                    "startColumn": 4,
+                    "startOffset": 32663,
+                    "endLine": 778,
+                    "endColumn": 9,
+                    "endOffset": 32760
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\quickbrownfox.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 779,
+                    "startColumn": 4,
+                    "startOffset": 32765,
+                    "endLine": 810,
+                    "endColumn": 12,
+                    "endOffset": 33941
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\qwerty.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 811,
+                    "startColumn": 4,
+                    "startOffset": 33946,
+                    "endColumn": 49,
+                    "endOffset": 33991
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 812,
+                    "startColumn": 4,
+                    "startOffset": 33996,
+                    "endColumn": 48,
+                    "endOffset": 34040
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 48,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 813,
+                    "startColumn": 4,
+                    "startOffset": 34045,
+                    "endColumn": 56,
+                    "endOffset": 34097
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 56,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 814,
+                    "startColumn": 4,
+                    "startOffset": 34102,
+                    "endColumn": 37,
+                    "endOffset": 34135
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 37,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 815,
+                    "startColumn": 4,
+                    "startOffset": 34140,
+                    "endColumn": 48,
+                    "endOffset": 34184
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 48,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 816,
+                    "startColumn": 4,
+                    "startOffset": 34189,
+                    "endColumn": 53,
+                    "endOffset": 34238
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 53,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 34243,
+                    "endColumn": 35,
+                    "endOffset": 34274
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 43,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 818,
+                    "startColumn": 4,
+                    "startOffset": 34279,
+                    "endColumn": 37,
+                    "endOffset": 34312
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 45,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 819,
+                    "startColumn": 4,
+                    "startOffset": 34317,
+                    "endColumn": 57,
+                    "endOffset": 34370
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 57,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 820,
+                    "startColumn": 4,
+                    "startOffset": 34375,
+                    "endColumn": 61,
+                    "endOffset": 34432
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 61,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 821,
+                    "startColumn": 4,
+                    "startOffset": 34437,
+                    "endColumn": 33,
+                    "endOffset": 34466
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 33,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 822,
+                    "startColumn": 4,
+                    "startOffset": 34471,
+                    "endColumn": 60,
+                    "endOffset": 34527
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 60,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 823,
+                    "startColumn": 4,
+                    "startOffset": 34532,
+                    "endColumn": 52,
+                    "endOffset": 34580
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 803,
+                        "endColumn": 49,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 824,
+                    "startColumn": 4,
+                    "startOffset": 34585,
+                    "endColumn": 37,
+                    "endOffset": 34618
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 37,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 825,
+                    "startColumn": 4,
+                    "startOffset": 34623,
+                    "endColumn": 52,
+                    "endOffset": 34671
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 52,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 826,
+                    "startColumn": 4,
+                    "startOffset": 34676,
+                    "endColumn": 53,
+                    "endOffset": 34725
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 53,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 34730,
+                    "endColumn": 61,
+                    "endOffset": 34787
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 61,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 34792,
+                    "endColumn": 53,
+                    "endOffset": 34841
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 53,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 829,
+                    "startColumn": 4,
+                    "startOffset": 34846,
+                    "endColumn": 63,
+                    "endOffset": 34905
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 63,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 830,
+                    "startColumn": 4,
+                    "startOffset": 34910,
+                    "endColumn": 61,
+                    "endOffset": 34967
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 61,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 34972,
+                    "endColumn": 61,
+                    "endOffset": 35029
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 61,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 35034,
+                    "endColumn": 66,
+                    "endOffset": 35096
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 66,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 833,
+                    "startColumn": 4,
+                    "startOffset": 35101,
+                    "endColumn": 68,
+                    "endOffset": 35165
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 68,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 834,
+                    "startColumn": 4,
+                    "startOffset": 35170,
+                    "endColumn": 64,
+                    "endOffset": 35230
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 64,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 835,
+                    "startColumn": 4,
+                    "startOffset": 35235,
+                    "endColumn": 57,
+                    "endOffset": 35288
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 57,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 836,
+                    "startColumn": 4,
+                    "startOffset": 35293,
+                    "endColumn": 57,
+                    "endOffset": 35346
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 57,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 837,
+                    "startColumn": 4,
+                    "startOffset": 35351,
+                    "endColumn": 60,
+                    "endOffset": 35407
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 60,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 838,
+                    "startColumn": 4,
+                    "startOffset": 35412,
+                    "endColumn": 94,
+                    "endOffset": 35502
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 94,
+                        "endOffset": 1833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 839,
+                    "startColumn": 4,
+                    "startOffset": 35507,
+                    "endColumn": 68,
+                    "endOffset": 35571
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 68,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 840,
+                    "startColumn": 4,
+                    "startOffset": 35576,
+                    "endColumn": 45,
+                    "endOffset": 35617
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 841,
+                    "startColumn": 4,
+                    "startOffset": 35622,
+                    "endColumn": 91,
+                    "endOffset": 35709
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 91,
+                        "endOffset": 1001
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\alphabet.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\fitaly.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 2354
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\lewis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2359,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 3483
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\metropolis.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3488,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 4691
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\opti.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4696,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\opti2.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endLine": 273,
+                    "endColumn": 9,
+                    "endOffset": 10310
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases100.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 103,
+                        "endColumn": 9,
+                        "endOffset": 4560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 10315,
+                    "endLine": 775,
+                    "endColumn": 12,
+                    "endOffset": 32658
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\phrases2.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 503,
+                        "endColumn": 12,
+                        "endOffset": 22901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 776,
+                    "startColumn": 4,
+                    "startOffset": 32663,
+                    "endLine": 778,
+                    "endColumn": 9,
+                    "endOffset": 32760
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\quickbrownfox.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 4,
+                        "endColumn": 9,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 779,
+                    "startColumn": 4,
+                    "startOffset": 32765,
+                    "endLine": 810,
+                    "endColumn": 12,
+                    "endOffset": 33941
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\qwerty.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 811,
+                    "startColumn": 4,
+                    "startOffset": 33946,
+                    "endColumn": 49,
+                    "endOffset": 33991
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 49,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 812,
+                    "startColumn": 4,
+                    "startOffset": 33996,
+                    "endColumn": 48,
+                    "endOffset": 34040
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 48,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 813,
+                    "startColumn": 4,
+                    "startOffset": 34045,
+                    "endColumn": 56,
+                    "endOffset": 34097
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 56,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 814,
+                    "startColumn": 4,
+                    "startOffset": 34102,
+                    "endColumn": 37,
+                    "endOffset": 34135
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 37,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 815,
+                    "startColumn": 4,
+                    "startOffset": 34140,
+                    "endColumn": 48,
+                    "endOffset": 34184
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 48,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 816,
+                    "startColumn": 4,
+                    "startOffset": 34189,
+                    "endColumn": 53,
+                    "endOffset": 34238
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 53,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 817,
+                    "startColumn": 4,
+                    "startOffset": 34243,
+                    "endColumn": 35,
+                    "endOffset": 34274
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 43,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 818,
+                    "startColumn": 4,
+                    "startOffset": 34279,
+                    "endColumn": 37,
+                    "endOffset": 34312
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 45,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 819,
+                    "startColumn": 4,
+                    "startOffset": 34317,
+                    "endColumn": 57,
+                    "endOffset": 34370
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 57,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 820,
+                    "startColumn": 4,
+                    "startOffset": 34375,
+                    "endColumn": 61,
+                    "endOffset": 34432
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 744,
+                        "endColumn": 61,
+                        "endOffset": 801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 821,
+                    "startColumn": 4,
+                    "startOffset": 34437,
+                    "endColumn": 33,
+                    "endOffset": 34466
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 33,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 822,
+                    "startColumn": 4,
+                    "startOffset": 34471,
+                    "endColumn": 60,
+                    "endOffset": 34527
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 60,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 823,
+                    "startColumn": 4,
+                    "startOffset": 34532,
+                    "endColumn": 52,
+                    "endOffset": 34580
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 803,
+                        "endColumn": 49,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 824,
+                    "startColumn": 4,
+                    "startOffset": 34585,
+                    "endColumn": 37,
+                    "endOffset": 34618
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 37,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 825,
+                    "startColumn": 4,
+                    "startOffset": 34623,
+                    "endColumn": 52,
+                    "endOffset": 34671
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 52,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 826,
+                    "startColumn": 4,
+                    "startOffset": 34676,
+                    "endColumn": 53,
+                    "endOffset": 34725
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 53,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 827,
+                    "startColumn": 4,
+                    "startOffset": 34730,
+                    "endColumn": 61,
+                    "endOffset": 34787
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 61,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 828,
+                    "startColumn": 4,
+                    "startOffset": 34792,
+                    "endColumn": 53,
+                    "endOffset": 34841
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 53,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 829,
+                    "startColumn": 4,
+                    "startOffset": 34846,
+                    "endColumn": 63,
+                    "endOffset": 34905
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 63,
+                        "endOffset": 1359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 830,
+                    "startColumn": 4,
+                    "startOffset": 34910,
+                    "endColumn": 61,
+                    "endOffset": 34967
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1364,
+                        "endColumn": 61,
+                        "endOffset": 1421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 831,
+                    "startColumn": 4,
+                    "startOffset": 34972,
+                    "endColumn": 61,
+                    "endOffset": 35029
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 61,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 832,
+                    "startColumn": 4,
+                    "startOffset": 35034,
+                    "endColumn": 66,
+                    "endOffset": 35096
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1495,
+                        "endColumn": 66,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 833,
+                    "startColumn": 4,
+                    "startOffset": 35101,
+                    "endColumn": 68,
+                    "endOffset": 35165
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1426,
+                        "endColumn": 68,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 834,
+                    "startColumn": 4,
+                    "startOffset": 35170,
+                    "endColumn": 64,
+                    "endOffset": 35230
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1007,
+                        "endColumn": 64,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 835,
+                    "startColumn": 4,
+                    "startOffset": 35235,
+                    "endColumn": 57,
+                    "endOffset": 35288
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endColumn": 57,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 836,
+                    "startColumn": 4,
+                    "startOffset": 35293,
+                    "endColumn": 57,
+                    "endOffset": 35346
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endColumn": 57,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 837,
+                    "startColumn": 4,
+                    "startOffset": 35351,
+                    "endColumn": 60,
+                    "endOffset": 35407
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 60,
+                        "endOffset": 1676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 838,
+                    "startColumn": 4,
+                    "startOffset": 35412,
+                    "endColumn": 94,
+                    "endOffset": 35502
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 94,
+                        "endOffset": 1833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 839,
+                    "startColumn": 4,
+                    "startOffset": 35507,
+                    "endColumn": 68,
+                    "endOffset": 35571
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 68,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 840,
+                    "startColumn": 4,
+                    "startOffset": 35576,
+                    "endColumn": 45,
+                    "endOffset": 35617
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 45,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 841,
+                    "startColumn": 4,
+                    "startOffset": 35622,
+                    "endColumn": 91,
+                    "endOffset": 35709
+                },
+                "from": {
+                    "file": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 91,
+                        "endOffset": 1001
+                    }
+                }
+            }
+        ]
+    }
+]

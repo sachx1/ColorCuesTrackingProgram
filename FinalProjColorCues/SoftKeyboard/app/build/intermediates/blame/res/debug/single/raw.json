@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\type.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\raw\\type.wav"
+    },
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\type.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\raw\\type.wav"
+    },
+    {
+        "merged": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\type.wav",
+        "source": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\raw\\type.wav"
+    },
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\undo.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\raw\\undo.wav"
+    },
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\undo.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\raw\\undo.wav"
+    },
+    {
+        "merged": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.wav",
+        "source": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\raw\\miss.wav"
+    },
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\SoftKeyboard\\SoftKeyboard\\app\\src\\main\\res\\raw\\miss.wav"
+    },
+    {
+        "merged": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\miss.wav",
+        "source": "C:\\Users\\sachx\\Documents\\EECS4443\\FinalProjColorCues\\SoftKeyboard\\app\\src\\main\\res\\raw\\miss.wav"
+    },
+    {
+        "merged": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\raw\\undo.wav",
+        "source": "C:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\src\\main\\res\\raw\\undo.wav"
+    }
+]

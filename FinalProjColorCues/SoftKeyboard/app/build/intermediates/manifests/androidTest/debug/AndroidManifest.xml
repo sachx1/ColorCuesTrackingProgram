@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ca.yorku.cse.mack.softkeyboard.test">
+
+    <uses-sdk android:minSdkVersion="12" android:targetSdkVersion="18" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="ca.yorku.cse.mack.softkeyboard"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for ca.yorku.cse.mack.softkeyboard"/>
+</manifest>

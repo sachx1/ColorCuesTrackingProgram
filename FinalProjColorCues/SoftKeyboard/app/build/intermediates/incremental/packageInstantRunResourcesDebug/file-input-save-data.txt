@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Mar 25 10:34:03 CET 2017
+2.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\miss.wav
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\results_dialog.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\setup.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\type.wav
+5.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\setup.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+10.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\spinnerstyle.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\undo.wav
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\mack\\Desktop\\Scott-new\\Java\\AndroidStudioStuff\\SoftKeyboard\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
