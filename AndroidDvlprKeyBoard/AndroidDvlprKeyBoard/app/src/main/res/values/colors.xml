@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Color your keyboard-->
+    <color name="keyboard_background_color">#008577</color>
+    <color name="keyboard_divider">#00574B</color>
+    <color name="keyboard_pressed">#D81B60</color>
+</resources>
